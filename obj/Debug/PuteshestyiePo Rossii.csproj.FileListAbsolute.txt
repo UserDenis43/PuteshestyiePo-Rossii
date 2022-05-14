@@ -1,0 +1,30 @@
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\bin\Debug\PuteshestyiePo Rossii.exe.config
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\bin\Debug\PuteshestyiePo Rossii.exe
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\bin\Debug\PuteshestyiePo Rossii.pdb
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\bin\Debug\EntityFramework.dll
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\bin\Debug\EntityFramework.xml
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo Rossii.csproj.AssemblyReference.cache
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo Rossii.csproj.SuggestedBindingRedirects.cache
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\MainWindow.g.cs
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\App.g.cs
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo Rossii_Content.g.cs
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo Rossii_MarkupCompile.cache
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo Rossii_MarkupCompile.lref
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\MainWindow.baml
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo Rossii.g.resources
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo_Rossii.Properties.Resources.resources
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo Rossii.csproj.GenerateResource.cache
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo Rossii.csproj.CoreCompileInputs.cache
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo Rossii.csproj.CopyComplete
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo Rossii.exe
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\PuteshestyiePo Rossii.pdb
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\Windows\HotelWindow.g.cs
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\Windows\HotelWindow.baml
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\Windows\EditHotelInfoWindow.g.cs
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\Windows\EditHotelInfoWindow.baml
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\App.baml
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\Windows\AddHotelWindow.g.cs
+C:\Users\11-4\Documents\PuteshestyiePo Rossii\obj\Debug\Windows\AddHotelWindow.baml
